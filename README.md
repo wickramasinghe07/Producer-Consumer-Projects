@@ -19,4 +19,6 @@ With Eclipse Equinox OSGi Framework, we have created an Online Marketplace and D
         • The user can then complete the payment and submit the receipt number.
 
 
+Assignment 03: Microservices Assignment
+[MTIT -24 - 062.pdf](https://github.com/wickramasinghe07/Producer-Consumer-Projects/files/15158562/MTIT.-24.-.062.pdf)
 [Uploading MTIT -24 - 062.pdf…]()
